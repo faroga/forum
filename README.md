@@ -1,2 +1,2 @@
 # forum
-s html/css code for forum
+some  html/css code for forum
